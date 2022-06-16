@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\PromedioEnTresMaterias\PromedioEnTresMaterias\bin\Debug\PromedioEnTresMaterias.exe
+C:\Users\tauro\Desktop\PromedioEnTresMaterias\PromedioEnTresMaterias\bin\Debug\PromedioEnTresMaterias.pdb
+C:\Users\tauro\Desktop\PromedioEnTresMaterias\PromedioEnTresMaterias\obj\Debug\PromedioEnTresMaterias.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\PromedioEnTresMaterias\PromedioEnTresMaterias\obj\Debug\PromedioEnTresMaterias.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\PromedioEnTresMaterias\PromedioEnTresMaterias\obj\Debug\PromedioEnTresMaterias.exe
+C:\Users\tauro\Desktop\PromedioEnTresMaterias\PromedioEnTresMaterias\obj\Debug\PromedioEnTresMaterias.pdb
